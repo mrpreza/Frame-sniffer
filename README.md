@@ -2,9 +2,12 @@
 Contributors
 This project was done  by the following contributors:
 
--[Reza Paktinat](https://github.com/mrpreza) 
--[Saeed Razavi](gtt) 
--[Soroosh Dadashi](https://github.com/sorooshdp) 
+Contributors
+This project is made possible by the following contributors:
+
+[Contributor Name](GitHub Profile URL) – Description of their contributions
+[Contributor Name](GitHub Profile URL) – Description of their contributions
+[Contributor Name](GitHub Profile URL) – Description of their contributions
 
 
 
