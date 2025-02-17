@@ -2,9 +2,10 @@
 Contributors
 This project was done  by the following contributors:
 
-[Reza Paktinat](https://github.com/mrpreza) 
-[Saeed Razavi]() 
-[Soroosh Dadashi](https://github.com/sorooshdp) 
+-[Reza Paktinat](https://github.com/mrpreza) 
+-[Saeed Razavi](gtt) 
+-[Soroosh Dadashi](https://github.com/sorooshdp) 
+
 
 
 Designed and implemented a frame sniffing system on Virtex-7 VC7A35T-1FTG256C FPGA Board ,using VHDL and state machines to validate input frames received
