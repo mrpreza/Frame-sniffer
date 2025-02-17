@@ -5,9 +5,9 @@ This project was done  by the following contributors:
 Contributors
 This project is made possible by the following contributors:
 
-[Contributor Name](GitHub Profile URL) – Description of their contributions
-[Contributor Name](GitHub Profile URL) – Description of their contributions
-[Contributor Name](GitHub Profile URL) – Description of their contributions
+[Reza Paktinat](https://github.com/mrpreza) 
+[Saeed Razavi](https://github.com/saaed) 
+[Soroosh Dadashi](https://github.com/sorooshdp) 
 
 
 
