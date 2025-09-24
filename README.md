@@ -31,30 +31,6 @@ This project includes VHDL source code, a Python frame generator for testing, an
 
 ---
 
-## 📂 Project Structure
-
-Frame-sniffer-main/
-│
-├── fpga project/
-│ ├── Attached Files/
-│ │ ├── framegen.py # Python-based frame generator
-│ │ ├── testbench.vhdl # VHDL testbench
-│ │ ├── vhdl.vhdl # Main VHDL source
-│ │ ├── UCF.txt # FPGA constraint file
-│ │ ├── wireshark output*.jpg # Validation images
-│ │ ├── report.pdf # Project report
-│ │ ├── LES.pdf # Learning material
-│ │ └── report.docx # Additional documentation
-│ │
-│ └── Report.pdf # Main project report
-│
-└── README.md # Documentation
-
-
-
-
-
----
 
 ## 🛠️ Requirements
 
